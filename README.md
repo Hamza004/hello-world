@@ -1,2 +1,3 @@
 # hello-world
-First Git Hub Repository
+Hi,
+I've started using GitHub today itself nad it's really amazing.
